@@ -27,4 +27,4 @@ Scenario: If number1 or number2 is not entered
 
 Scenario: If the number is real/complex
 
-Scenario: If we are inbetween some operation
+Scenario: If we are in between some operation
